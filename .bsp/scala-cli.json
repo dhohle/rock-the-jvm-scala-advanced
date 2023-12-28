@@ -1,0 +1,16 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/home/dhohle/.local/share/coursier/bin/.scala-cli.aux",
+    "bsp",
+    "--json-options",
+    "/home/dhohle/src/github/rock-the-jvm-scala-advanced/.scala-build/ide-options-v2.json",
+    "/home/dhohle/src/github/rock-the-jvm-scala-advanced"
+  ],
+  "version": "1.1.0",
+  "bspVersion": "2.1.0-M7",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
